@@ -27,7 +27,10 @@
     padding: 0 50px;
     color: #ffffff;
   }
-  
+  main .centro .img img{
+    width: 500px;
+    border-radius: 25px;
+  }
   header nav {
     float: right;
   }
